@@ -1,0 +1,19 @@
+#comment{
+    margin: 20px;
+}
+#input{
+    border-style: groove;
+    border-color: crimson;
+}
+#button{
+    display: flex;
+    justify-content: space-between;
+}
+#login_link{
+    text-decoration: none;
+    margin: 10px;
+}
+#container{
+    margin-top: 50px;
+    
+}
